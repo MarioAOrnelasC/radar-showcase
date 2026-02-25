@@ -1,4 +1,4 @@
-# RADAR: Government Contract Scraping & ML Platform 📊🤖
+# RADAR: Government Contract Scraping & ML Platform 
 
 > **Note:** This is a showcase repository demonstrating my architectural refactoring and Machine Learning integration work at the **Illinois Hispanic Chamber of Commerce (IHCC)**. The full source code is proprietary and private.
 
